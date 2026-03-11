@@ -1,5 +1,5 @@
 <!-- Banner -->
-![GitHub Banner](banner.png)
+![GitHub Banner](github-banner.png)
 
 # 👋 Hey, I'm Ankit Arun Uniyal (Qwintal)
 
